@@ -2,6 +2,7 @@ Hi there, I'm an amateur programmer interested in artificial intelligence and ro
 
 |Repository                                                                                |Description                                                         |Language         |Year                                        |
 |----------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | --------------- |-------------------------------------------- |
+|[Quadruped gait controller](https://github.com/sujitvasanth/QuadrupedGaitController)      | A webots quadruped gait generator for Windows and Linux            |Python           | 2020     |
 |[Minmap](https://github.com/sujitvasanth/minmap)                                          | Platform agnostic javascript mind-mapping (serverless) web app     |Html-Javascript  | 2023     |
 |[Code chronicle](https://github.com/sujitvasanth/CodeChronicle)                           | Version, archive, document, visualize, compare your code           |Python           | 2023     |
 |[Screencap object detection](https://github.com/sujitvasanth/ContinuousScreenRecognition) | Continous screen capture and object detection using openCV DNN     |Python           | 2021     |
