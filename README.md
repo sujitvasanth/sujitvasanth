@@ -2,7 +2,7 @@ Hi there, I'm an amateur programmer interested in artificial intelligence and ro
 
 |Repository                                                                                |Description                                                         |Language         |Year      |
 |----------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | --------------- |--------- |
-|[GPTQ-finetune](https://github.com/sujitvasanth/GPTQ-finetune)                            | Finetune TheBloke-openchat-GPTQ to search of json databases        |Pyhton           | 2024     |
+|[GPTQ-finetune](https://github.com/sujitvasanth/GPTQ-finetune)                            | Finetune TheBloke-openchat-GPTQ to search json databases           |Pyhton           | 2024     |
 |[Tiny-Llava-Tk](https://github.com/sujitvasanth/TinyLlava-Tk)                             | Vision and text Multimodal inference using Tk and opencv           |Python           | 2024     |
 |[Streaming LLM chat](https://github.com/sujitvasanth/streaming-LLM-chat)                  | Transformer implementation of quantised openchat neural net        |Python           | 2024     |
 |[Quadruped gait controller](https://github.com/sujitvasanth/QuadrupedGaitController)      | A webots quadruped gait generator for Windows and Linux            |Python           | 2020     |
