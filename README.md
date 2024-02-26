@@ -1,8 +1,9 @@
 Hi there, I'm an amateur programmer interested in artificial intelligence and robotics. Here is a table of my repositories
 
-|Repository                                                                                |Description                                                         |Language         |Year                                        |
-|----------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | --------------- |-------------------------------------------- |
-|[Tiny-Llava-Tk](https://github.com/sujitvasanth/TinyLlava-Tk)                             | Vision and text Multimodal inference using Tk and opencv   |       Pyton            | 2024     |
+|Repository                                                                                |Description                                                         |Language         |Year      |
+|----------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | --------------- |--------- |
+|[GPTQ-finetune](https://github.com/sujitvasanth/GPTQ-finetune)                            | Finetune TheBloke-openchat-GPTQ to improve search of json databases|Pyhton           | 2024     |
+|[Tiny-Llava-Tk](https://github.com/sujitvasanth/TinyLlava-Tk)                             | Vision and text Multimodal inference using Tk and opencv           |Python           | 2024     |
 |[Streaming LLM chat](https://github.com/sujitvasanth/streaming-LLM-chat)                  | Transformer implementation of quantised openchat neural net        |Python           | 2024     |
 |[Quadruped gait controller](https://github.com/sujitvasanth/QuadrupedGaitController)      | A webots quadruped gait generator for Windows and Linux            |Python           | 2020     |
 |[Minmap](https://github.com/sujitvasanth/minmap)                                          | Platform agnostic javascript mind-mapping (serverless) web app     |Html-Javascript  | 2023     |
